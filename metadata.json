@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Matematika & Logika",
+  "description": "Game edukasi kuis matematika dan logika ceria untuk anak SD dan orang tua dengan level bertingkat, sistem bintang, efek suara Web Audio, dan leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
